@@ -1,5 +1,5 @@
 #########################
-# First analysis GEE
+# Transcriptomics GEE analysis
 # Gene Expression data
 ########################
 
