@@ -3,7 +3,7 @@
 # ------
 #
 # This script should be utilized for analyzing how blood metabolite levels depend on zygosuty.
-# The analysis plan by René Pool (r.pool#vu.nl), Nikki Hubers (n.hubers@vu.nl) and Leonie Bogl (leonie-helen.bogl@helsinki.fi)
+# The analysis plan by René Pool, Nikki Hubers (n.hubers@vu.nl) and Leonie Bogl
 # on which this script is based, is included in directory "../Documents".
 #
 # This script needs editing enabling it to run correctly for your cohort.
