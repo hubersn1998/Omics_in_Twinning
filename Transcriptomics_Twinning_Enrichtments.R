@@ -3,7 +3,7 @@
 ###############
 
 # This script is used to perform enrichment analyses from the results from the TWAS analyses
-# The complete TWAS analyses can be found in the script ...
+# The complete TWAS analyses can be found in the script Transcriptomics_Twinning_Analyses.R
 
 #Packages
 library(enrichR)
