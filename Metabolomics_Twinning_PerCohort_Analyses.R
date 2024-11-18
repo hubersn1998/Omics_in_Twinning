@@ -18,6 +18,7 @@
 # "../Uploaded/<CURRENT_DATE_IN_YYYYMMDD>". 
 # the generated file "../Uploaded/<CURRENT_DATE_IN_YYYYMMDD>.zip".
 #
+# This script also requires the analyses from Metabolomics_Twinning_AnalysesFunctions.R
 # Please direct any questions or remarks on this script to Nikki Hubers (n.hubers@vu.nl).
 #
 # Happy computing :-)
