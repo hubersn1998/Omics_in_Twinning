@@ -1,5 +1,5 @@
 # Omics_in_Twinning
-This Github repository includes all the scripts that were used in the project by Hubers et al (2024) that can be found at the preprint servire MedRxiv at :https://doi.org/10.1101/2024.06.25.24309452
+This Github repository includes all the scripts that were used in the project by Hubers et al (2024) that can be found at the American journal of Medical genetics - Part A: https://doi.org/10.1002/ajmg.a.63971
 
 This repository contains two parts:
 1. Transcriptomics: A. Transcriptomics_Twinning_Analyses.R: one script to perform regression analysis on RNA probes for zygosity status. B. Transcriptomics_Twinning_Enrichtments.R: script to perform enrichment analyses
